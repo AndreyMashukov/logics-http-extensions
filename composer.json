@@ -1,5 +1,5 @@
 {
-    "name": "logics/http-client-extensions",
+    "name": "andrey-mashukov/http-client-extensions",
     "keywords": ["extensionslogicshttp", "httpclient"],
     "homepage": "https://github.com/AndreyMashukov/logics-http-extensions",
     "description": "Extensions for package logics/http",
